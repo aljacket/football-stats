@@ -1,0 +1,6 @@
+{
+  "appId": "com.footballstats.app",
+  "appName": "football-stats",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

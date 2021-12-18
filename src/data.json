@@ -1,0 +1,60 @@
+{
+    "information": [
+        {
+            "id": "goalsHome",
+            "title": "Gol"
+        },
+        {
+            "id": "goalsAway",
+            "title": "Gol"
+        },
+        {
+            "id": "onTragetHome",
+            "title": "Tiri in porta"
+        },
+        {
+            "id": "onTargetAway",
+            "title": "Tiri in porta"
+        },
+        {
+            "id": "shootHome",
+            "title": "Tiri fuori"
+        },
+        {
+            "id": "shootAway",
+            "title": "Tiri Fuori"
+        },
+        {
+            "id": "cornersHome",
+            "title": "Angoli"
+        },
+        {
+            "id": "cornersAway",
+            "title": "Angoli"
+        },
+        {
+            "id": "foulsHome",
+            "title": "Falli fatti"
+        },
+        {
+            "id": "foulsAway",
+            "title": "Falli fatti"
+        },
+        {
+            "id": "yellowsHome",
+            "title": "Gialli"
+        },
+        {
+            "id": "yellowsAway",
+            "title": "Gialli"
+        },
+        {
+            "id": "redsHome",
+            "title": "Rossi"
+        },
+        {
+            "id": "redsAway",
+            "title": "Rossi"
+        }
+    ]
+}
